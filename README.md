@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @wangqiyangX
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm wangqiyang</h1>
 
-<!---
-wangqiyangX/wangqiyangX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  💻 Builder | 🚀 Tech Explorer | 🧠 Always Learning
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🌱 Learning: AI / Fullstack  
+- 🛠 Building useful things  
+- 📫 wangqiyangx@gmail.com  
+
+---
+
+## ⚙️ Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwindcss,swift,nodejs,git" />
+</p>
