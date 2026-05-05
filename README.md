@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm wangqiyang</h1>
+<h1 align="center">Hi 👋, I'm Qiyang Wang</h1>
 
 <p align="center">
   💻 Builder | 🚀 Tech Explorer | 🧠 Always Learning
