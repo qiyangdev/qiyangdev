@@ -1,75 +1,51 @@
-<div align="center">
+<p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0EA5E9,50:22C55E,100:8B5CF6&text=Qiyang%20Wang&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Builder%20%7C%20AI%20Explorer%20%7C%20Full-stack%20Developer&descSize=16&descAlignY=58&animation=fadeIn"
-    alt="Qiyang Wang - Builder, AI Explorer, Full-stack Developer"
+    src="./assets/profile-header.svg"
+    alt="Qiyang — Software developer building thoughtful products with SwiftUI, Expo, Next.js, and AI"
     width="100%"
   />
-
-  <a href="mailto:wangqiyangx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-wangqiyangx%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Qiyang Wang" />
-  </a>
-  <a href="https://github.com/qiyangdev">
-    <img src="https://img.shields.io/badge/GitHub-qiyangdev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub qiyangdev" />
-  </a>
-</div>
-
-## Hi, I'm Qiyang
-
-I build software that turns rough ideas into useful, shippable products. My current interests sit around AI-native workflows, full-stack product engineering, Swift apps, and developer tools that feel calm, fast, and practical.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>What I'm focused on</h3>
-      <ul>
-        <li>Designing AI-assisted product and engineering workflows.</li>
-        <li>Building web apps with TypeScript, React, and Next.js.</li>
-        <li>Exploring Swift, Apple platforms, and local-first tools.</li>
-        <li>Shipping small, useful things and learning in public.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>How I like to work</h3>
-      <ul>
-        <li>Start from the real user problem, then reduce the shape.</li>
-        <li>Prefer simple systems that can grow without becoming noisy.</li>
-        <li>Care about craft, performance, and clear product behavior.</li>
-        <li>Keep learning, keep building, keep polishing.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## Tech I Use
-
-<div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=ts,js,python,swift,react,nextjs,tailwind,nodejs,git,github,vscode"
-    alt="TypeScript, JavaScript, Python, Swift, React, Next.js, Tailwind CSS, Node.js, Git, GitHub, VS Code"
-  />
-</div>
-
-## GitHub Snapshot
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=qiyangdev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    alt="Qiyang Wang GitHub stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiyangdev&layout=compact&hide_border=true&theme=transparent"
-    alt="Qiyang Wang top languages"
-    height="165"
-  />
-</div>
-
-## Find Me
-
-<p>
-  If you're building around AI tools, full-stack products, Apple platforms, or thoughtful developer experience, I'm always happy to connect.
 </p>
 
+<p align="center">
+  <a href="https://qiyang.dev">
+    <img src="https://img.shields.io/badge/qiyang.dev-111827?style=flat-square&logo=safari&logoColor=white" alt="Personal website" />
+  </a>
+  <a href="mailto:wangqiyangx@gmail.com">
+    <img src="https://img.shields.io/badge/email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email Qiyang" />
+  </a>
+  <a href="https://x.com/qiyangdev">
+    <img src="https://img.shields.io/badge/@qiyangdev-111827?style=flat-square&logo=x&logoColor=white" alt="Qiyang on X" />
+  </a>
+</p>
+
+## Build thoughtfully. Ship practically.
+
+I'm Qiyang, a software developer in Beijing. I turn ideas into focused products across Apple platforms and the web, working mostly with **SwiftUI**, **Expo**, **Next.js**, and **AI-native workflows**.
+
+I care about calm interfaces, small systems that age well, and tools that make complicated work feel simple.
+
+## Current direction
+
+- **Building** polished native and cross-platform product experiences.
+- **Exploring** AI-assisted workflows, local-first software, and developer tools.
+- **Writing** notes about engineering and product craft on [my blog](https://blog.qiyang.dev).
+
+## Toolbox
+
 <p>
-  <a href="mailto:wangqiyangx@gmail.com"><strong>wangqiyangx@gmail.com</strong></a>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-233056?style=flat-square&logo=nodedotjs&logoColor=68A063" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+## Let's connect
+
+If you're working on native apps, AI products, developer tools, or a thoughtful web experience, I'd love to hear about it. Reach me at **[wangqiyangx@gmail.com](mailto:wangqiyangx@gmail.com)**.
+
+<p align="center">
+  <sub>Walk · Question · Yearn</sub>
 </p>

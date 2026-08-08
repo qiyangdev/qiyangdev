@@ -1,0 +1,97 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Qiyang — software developer and product builder</title>
+  <desc>A dark editorial banner highlighting Qiyang's work with SwiftUI, Expo, Next.js, and AI-native workflows.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="38" y1="20" x2="1162" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#08111F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="68" y1="0" x2="396" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.52" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="card" x1="836" y1="66" x2="1124" y2="294" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E293B" stop-opacity="0.94"/>
+      <stop offset="1" stop-color="#0F172A" stop-opacity="0.76"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1012 66) rotate(90) scale(232)">
+      <stop stop-color="#0EA5E9" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGreen" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(730 338) rotate(-31) scale(245 154)">
+      <stop stop-color="#10B981" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#94A3B8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="790" y="36" width="380" height="316" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="24" flood-color="#020617" flood-opacity="0.42"/>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <circle cx="1012" cy="66" r="232" fill="url(#glowBlue)"/>
+    <ellipse cx="730" cy="338" rx="245" ry="154" fill="url(#glowGreen)"/>
+
+    <path d="M68 43H246" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="68" cy="43" r="5" fill="#38BDF8"/>
+
+    <text x="68" y="86" fill="#7DD3FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="4">HELLO, I'M</text>
+    <text x="62" y="179" fill="#F8FAFC" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="88" font-weight="800" letter-spacing="-4">QIYANG</text>
+    <text x="68" y="222" fill="#CBD5E1" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="500">Software developer building thoughtful products.</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="0.7">
+      <rect x="68" y="252" width="86" height="30" rx="15" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.3"/>
+      <text x="87" y="272" fill="#7DD3FC">SWIFTUI</text>
+      <rect x="164" y="252" width="70" height="30" rx="15" fill="#34D399" fill-opacity="0.12" stroke="#34D399" stroke-opacity="0.3"/>
+      <text x="183" y="272" fill="#6EE7B7">EXPO</text>
+      <rect x="244" y="252" width="84" height="30" rx="15" fill="#A78BFA" fill-opacity="0.12" stroke="#A78BFA" stroke-opacity="0.3"/>
+      <text x="260" y="272" fill="#C4B5FD">NEXT.JS</text>
+      <rect x="338" y="252" width="56" height="30" rx="15" fill="#F8FAFC" fill-opacity="0.08" stroke="#F8FAFC" stroke-opacity="0.18"/>
+      <text x="357" y="272" fill="#E2E8F0">AI</text>
+    </g>
+
+    <text x="68" y="326" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" letter-spacing="2">BEIJING  ·  WALK / QUESTION / YEARN</text>
+
+    <g filter="url(#shadow)">
+      <rect x="836" y="66" width="288" height="228" rx="20" fill="url(#card)" stroke="#94A3B8" stroke-opacity="0.18"/>
+      <circle cx="864" cy="92" r="5" fill="#FB7185"/>
+      <circle cx="882" cy="92" r="5" fill="#FBBF24"/>
+      <circle cx="900" cy="92" r="5" fill="#34D399"/>
+      <path d="M856 114H1104" stroke="#94A3B8" stroke-opacity="0.12"/>
+
+      <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
+        <text x="860" y="146" fill="#C4B5FD">const</text>
+        <text x="910" y="146" fill="#E2E8F0">focus</text>
+        <text x="960" y="146" fill="#94A3B8">= {</text>
+
+        <text x="878" y="176" fill="#7DD3FC">native:</text>
+        <text x="950" y="176" fill="#6EE7B7">"SwiftUI"</text>
+        <text x="1036" y="176" fill="#94A3B8">,</text>
+
+        <text x="878" y="206" fill="#7DD3FC">web:</text>
+        <text x="926" y="206" fill="#6EE7B7">"Next.js"</text>
+        <text x="1013" y="206" fill="#94A3B8">,</text>
+
+        <text x="878" y="236" fill="#7DD3FC">mindset:</text>
+        <text x="966" y="236" fill="#6EE7B7">"ship"</text>
+        <text x="1028" y="236" fill="#94A3B8">,</text>
+
+        <text x="860" y="266" fill="#94A3B8">};</text>
+        <rect x="890" y="255" width="8" height="14" rx="1" fill="#38BDF8" fill-opacity="0.9"/>
+      </g>
+    </g>
+
+    <circle cx="1154" cy="314" r="88" stroke="#A78BFA" stroke-opacity="0.14" stroke-width="22"/>
+    <circle cx="1154" cy="314" r="52" stroke="#38BDF8" stroke-opacity="0.16" stroke-width="2"/>
+  </g>
+</svg>
